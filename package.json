@@ -1,6 +1,6 @@
 {
-  "homepage": "https://jming1116.github.io/portfolio",
-  "name": "wong-portfolio",
+  "homepage": "https://jming1116.github.io/portfolio/home",
+  "name": "kai-portfolio",
   "version": "1.0.0",
   "private": true,
   "dependencies": {
